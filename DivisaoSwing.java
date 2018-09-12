@@ -8,7 +8,7 @@
  *
  * @author Cah Lins
  */
-public class Dividir extends javax.swing.JFrame {
+public class DivisaoSwing extends javax.swing.JFrame {
 
     /**
      * Creates new form Dividir
