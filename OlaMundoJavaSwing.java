@@ -9,7 +9,7 @@ package cursoemvideo.olamundo;
  *
  * @author Cah Lins
  */
-public class OlaMundoJava extends javax.swing.JFrame {
+public class OlaMundoJavaSwing extends javax.swing.JFrame {
 
     /**
      * Creates new form OlaMundoJava
