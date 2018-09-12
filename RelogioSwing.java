@@ -11,7 +11,7 @@ import java.util.Date;
  *
  * @author Cah Lins
  */
-public class TelaRelogio extends javax.swing.JFrame {
+public class RelogioSwing extends javax.swing.JFrame {
 
     /**
      * Creates new form TelaRelogio
