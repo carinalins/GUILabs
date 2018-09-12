@@ -12,7 +12,7 @@ import java.awt.Toolkit;
  *
  * @author Cah Lins
  */
-public class ResolucaoTela extends javax.swing.JFrame {
+public class ResolutionOfScreenSwing extends javax.swing.JFrame {
 
     /**
      * Creates new form ResolucaoTela
